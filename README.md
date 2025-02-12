@@ -700,6 +700,7 @@
 - [MadeWithVueJs](https://madewithvuejs.com/) - A Gallery of Projects made with Vue.js (also the Site itself uses Vue.js)
 - [Thousand Ether Homepage](https://thousandetherhomepage.com) - The Million Dollar Homepage reimagined as an Ethereum DApp. Build on Vue.js and open source.
 - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
+- [Linebet](https://linebetmobile.com/) - A betting company in Morocco
 - [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
 - [Fintechers](https://www.fintechers.io) - Fintech focused job board.
